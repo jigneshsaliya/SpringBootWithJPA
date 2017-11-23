@@ -29,6 +29,7 @@ public class CarWalletApplicationTests {
 	
 	@Test
 	public void shouldAddVehicleType() {
+		// test 
 		VehicleType vehicleType = new VehicleType();
 		vehicleType.setVehicleType("Coupe");
 		vehicleType.setCreatedDate("20171122");
